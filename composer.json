@@ -1,9 +1,9 @@
 {
-    "name": "google/apiclient",
+    "name": "jayzcos/google-api-updated",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
-    "homepage": "http://developers.google.com/api-client-library/php",
+    "homepage": "http://thatchercomputers.com",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4",
